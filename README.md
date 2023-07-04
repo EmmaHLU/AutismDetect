@@ -5,6 +5,7 @@ Detect autism from a face image using transfer learning based on a vision transf
 
 ## Dataset
 https://www.kaggle.com/datasets/cihan063/autism-image-data/discussion/273921
+
 Key features of the dataset
 - train: autism(1270) non-autism(1270)
 - validation: autism(50) non-autism(50)
